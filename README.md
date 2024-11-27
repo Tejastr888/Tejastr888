@@ -38,9 +38,6 @@ I have a keen interest in building scalable, fast, and secure applications that 
 <a href="https://leetcode.com/tejasacharya078/" target="blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="Tejas LeetCode" height="40" width="40" />
 </a>
-<a href="https://www.hackerrank.com/tejastr888" target="blank">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank.svg" alt="Tejas HackerRank" height="40" width="40" />
-</a>
 </p>
 
 ---
