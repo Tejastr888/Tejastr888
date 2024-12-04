@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋, I'm Tejas R</h1>
 <h3 align="center">Software Developer from India</h3>
 
-<p align="center">
-I am passionate about Backend, Frontend, and Mobile Programming.  
-My primary programming language is Java, and I specialize in developing backend projects using the Spring Framework.  
-I also build frontend applications with JavaScript and React.  
-</p>
-
-<p align="center">
-Other technologies I work with include React Native, Python, Kotlin, C#, Angular, Microservices, and Docker.  
-I have a keen interest in building scalable, fast, and secure applications that are developer-friendly.  
-</p>
+ <p align="center">
+ Hello! I am a Multidisciplinary Technologist with a strong
+foundation in software engineering, game development, and data
+science. Currently building my expertise across several fields
+ including full-stack development, cloud computing, and AI-driven
+ technologies.
+<br />
+I am very keen programming and software development. Right now I am able to build full stack applications using Java, react, spring boot, and postgresql ...etc.
+additionally have also been using tools like docker, Intellijidea IDE for development of applications and API Endpoints. I want do more of this.
+ </p>
+            <p align="center">
+              I enjoy tackling new challenges and contributing my skills to
+              innovative projects. Let’s connect and discuss how I can
+              contribute to your next big project!
+            </p>
 
 ---
 
